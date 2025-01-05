@@ -1,1 +1,5 @@
+*.python linguist-detectable=true
 
+git add .gitattributes
+git commit -m "Add .gitattributes to detect python language"
+git push
